@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaljadhavv&label=Profile%20views&color=0e75b6&style=flat" alt="gopaljadhavv" /> </p>
 
-- 🔭 I’m currently working on **End-End ML Projects**
+- 🔭 I’m currently working as a **AI Developer**
 
 - 🌱 I’m currently learning **Data Science**
 
